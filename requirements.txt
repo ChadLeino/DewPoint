@@ -1,0 +1,6 @@
+prometheus_client
+minimalmodbus
+pyvisa
+pyvisa-py
+schedule
+pandas
